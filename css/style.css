@@ -1,0 +1,7 @@
+/* css */
+.menu_top {width: 100;height: 80px;}
+
+/*seletores destacados em vermelho */
+.menu_top img {float: left; height: 40px;position: relative;}
+
+.menu_top .menu .linkmenu {text-decoration: none; }
